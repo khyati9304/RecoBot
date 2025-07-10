@@ -2,8 +2,6 @@
 
 RecoBot is an AI-powered movie recommender system built using **Python**, **Streamlit**, and **Natural Language Processing** (NLP). It helps users discover movies similar to their favorites by analyzing genres and descriptions using **TF-IDF vectorization** and **cosine similarity**.
 
-![RecoBot Cover](https://via.placeholder.com/1000x400?text=RecoBot+-+Your+Movie+Recommendation+Buddy)
-
 ---
 
 ## 🚀 Demo
